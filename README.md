@@ -11,12 +11,12 @@
 ### Physical Topology
 This diagram illustrates the physical distribution of devices. The network originates from the main floor (landlord's area) and extends to the basement via wireless signals.
 
-![Physical Topology](./images/physical_topology.png)
+![Physical Topology](./physical_topology.png)
 
 ### Logical Topology
 The logical structure shows the data flow and addressing hierarchy. All basement devices are part of a single flat subnet managed by the primary gateway.
 
-![Logical Topology](./images/logical_topology.png)
+![Logical Topology](./logical_topology.png)
 
 ---
 
